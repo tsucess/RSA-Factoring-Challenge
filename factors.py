@@ -5,14 +5,6 @@ from sys import argv
 
 def factorize(value):
 
-    """
-    # Factorize as many numbers as possible into..
-    # ..a product of two smaller numbers.
-    # VARIABLE(" "):
-    # factorize(int) Factorize all the things!
-    # Usage: factors <file>
-    # Output format: n=p*q
-    """
     i = 2
 
     if value < 2:
